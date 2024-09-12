@@ -1,0 +1,19 @@
+{
+  "name": "backendjs",
+  "version": "1.0.0",
+  "description": "basic deployment app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "basim tanveer",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0"
+  }
+}
